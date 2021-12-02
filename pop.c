@@ -4,7 +4,7 @@
  * _pop - removes the top elements of the stack.
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Kassaw for ALX project 
  * Return: void.
  */
 void _pop(stack_t **stack, unsigned int line_number)
