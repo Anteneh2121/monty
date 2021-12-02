@@ -4,7 +4,7 @@
  * _pstr - prints the string starting at the top of the stack.
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Bizuneh for Alx project
  * Return: void.
  */
 void _pstr(stack_t **stack, unsigned int line_number)
