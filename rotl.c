@@ -4,7 +4,7 @@
  * _rotl - rotates the stack to the top.
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh 
  * Return: void.
  */
 void _rotl(stack_t **stack, unsigned int line_number)
