@@ -4,7 +4,7 @@
  * _div -  divides the second top element of the stack by the top element
  * @head: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Bizuneh for Alx project
  * Return: void.
  */
 void _div(stack_t **head, unsigned int line_number)
