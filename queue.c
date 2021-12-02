@@ -4,7 +4,7 @@
  * _queue - select stack mode (default).
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Bizuneh for ALX project stack
  * Return: void.
  */
 void _queue(stack_t **stack, unsigned int line_number)
