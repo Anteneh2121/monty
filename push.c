@@ -4,7 +4,7 @@
  * _push -  pushes an element to the stack.
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- * author Anteneh Bizuneh for ALX project
+ * 
  * Return: void.
  */
 void _push(stack_t **stack, unsigned int line_number)
