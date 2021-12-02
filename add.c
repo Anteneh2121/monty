@@ -4,7 +4,7 @@
  * _add - adds the top two elements of the stack.
  * @stack: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Bizuneh
  * Return: void.
  */
 void _add(stack_t **stack, unsigned int line_number)
