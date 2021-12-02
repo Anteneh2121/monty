@@ -14,7 +14,7 @@
 
     What is the proper way to use global variables
 
-     ## Requirements
+  ###  Requirements
 
   Allowed editors: vi, vim, emacs
 
