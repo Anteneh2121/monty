@@ -4,7 +4,7 @@
  * _mod - get the module of the second top element of the stack and top element
  * @head: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh kassaw Bizuneh for Alx project
  * Return: void.
  */
 void _mod(stack_t **head, unsigned int line_number)
