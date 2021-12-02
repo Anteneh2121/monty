@@ -1,8 +1,8 @@
- /* 0x19. C - Stacks, Queues - LIFO, FIFO (Monty Bytecode Interpreter)*/
+# 0x19. C - Stacks, Queues - LIFO, FIFO (Monty Bytecode Interpreter)
  
-   /*  Learning Objectives */
+   ## Learning Objectives 
 
-    What do LIFO and FIFO mean
+   # What do LIFO and FIFO mean
 
     What is a stack, and when to use it
 
@@ -14,9 +14,9 @@
 
     What is the proper way to use global variables
 
-     /*  Requirements */
+     # Requirements 
      
-     /* Compiled with Ubuntu 14.04 LTS with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic*/
+     ## Compiled with Ubuntu 14.04 LTS with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 
     /* How to install */
 
