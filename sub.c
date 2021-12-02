@@ -4,7 +4,7 @@
  * _sub -  subtracts top element of the stack from the second top element.
  * @head: double pointer to header (top) of the stack.
  * @line_number: counter for line number of the file.
- *
+ * author Anteneh Bizuneh
  * Return: void.
  */
 void _sub(stack_t **head, unsigned int line_number)
