@@ -51,3 +51,8 @@
 | push.c  |  The opcode push pushes an element to the stack. |
 | pall.c  |  The opcode pall prints all the values on the stack, starting from the top of the stack. |
 |pint.c   |   The opcode pint prints the value at the top of the stack, followed by a new line |
+| pop.c   | The opcode pop removes the top element of the stack. |
+| swap.c  | The opcode swap swaps the top two elements of the stack. |
+|add.c    | The opcode add adds the top two elements of the stack. |
+| nop.c   | The opcode nop doesn’t do anything. |
+| pchar.c | The opcode pchar prints the char at the top of the stack, followed by a new line.|
