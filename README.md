@@ -48,6 +48,6 @@
 
  | C FILE  |  Description |
 | --- | --- |
-| push.c  | The opcode push pushes an element to the stack. |
-| pall.c |  |The opcode pall prints all the values on the stack, starting from the top of the stack. |
-|pint.c |   | The opcode pint prints the value at the top of the stack, followed by a new line |
+| push.c  |  The opcode push pushes an element to the stack. |
+| pall.c  |  The opcode pall prints all the values on the stack, starting from the top of the stack. |
+|pint.c   |   The opcode pint prints the value at the top of the stack, followed by a new line |
